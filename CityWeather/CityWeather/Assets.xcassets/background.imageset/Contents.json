@@ -1,0 +1,35 @@
+{
+  "images" : [
+    {
+      "filename" : "minimalist-wallpapers-fondos-de-pantalla-minimalista-celular-4k-17 _ Imágenes Bonitas Gratis.png",
+      "idiom" : "universal"
+    },
+    {
+      "appearances" : [
+        {
+          "appearance" : "luminosity",
+          "value" : "light"
+        }
+      ],
+      "filename" : "Time To Travel.png",
+      "idiom" : "universal"
+    },
+    {
+      "appearances" : [
+        {
+          "appearance" : "luminosity",
+          "value" : "dark"
+        }
+      ],
+      "filename" : "60+ New Ideas For Landscape Art Wallpaper Iphone Wallpapers.jpeg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}
